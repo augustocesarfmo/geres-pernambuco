@@ -5,7 +5,7 @@
 </p>
 
 ## 📃 Sobre
-Este repositório contém o arquivo GeoJSON das Gerências Regionais de Saúde (Geres) do estado de Pernambuco, Brasil.
+Este repositório contém o [arquivo GeoJSON](https://github.com/augustocesarfmo/geres-pernambuco/blob/main/geres_pernambuco.geojson) das Gerências Regionais de Saúde (Geres) do estado de Pernambuco, Brasil.
 
 GeoJSON é um formato para codificar uma variedade de estruturas de dados geográficos (https://geojson.org/).
 
